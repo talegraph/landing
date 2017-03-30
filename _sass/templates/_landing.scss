@@ -1,0 +1,23 @@
+.banner {
+  background-color: $color-primary-0;
+  padding: 100px 0;
+}
+
+.banner--sm {
+  padding: 50px 0;
+}
+
+.banner__title {
+  font-size: 48px;
+  color: #fff;
+}
+
+.banner__title--sm {
+  font-size: 28px;
+}
+
+.banner__lead {
+  font-size: 18px;
+  color: rgba(#000, 0.5);
+  margin-bottom: 30px;
+}
