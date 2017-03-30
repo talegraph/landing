@@ -1,0 +1,26 @@
+
+.site-footer {
+  font-family: 'Roboto Condensed', sans-serif;
+  font-weight: 400;
+  padding: 10px 10px 10px 10px;
+  color: #292825;
+  background-color: #4A4943;
+}
+
+.white-text {
+  color: #fff;
+}
+
+
+.site-footer a {
+  color: lightgrey;
+  &:hover{
+    color: darkgrey;
+  }
+  &:visited{
+    color: grey;
+  }
+  &:active{
+    color: pink;
+  }
+}
