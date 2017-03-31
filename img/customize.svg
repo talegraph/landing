@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="661px" height="724px" viewBox="0 0 661 724" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>Customise</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M95.350182,125.795361 C78.9483877,109.805853 341.663145,165.977565 412.056048,187.245494 C453.272867,199.698403 449.29019,232.406735 411.942717,232.144071 C374.595244,231.881407 76.4313584,219.218808 92.6070922,207.875331 C108.782826,196.531854 111.751976,141.784868 95.350182,125.795361 Z" id="path-1"></path>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="349.50835" height="109.174722" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Customise" transform="translate(6.000000, -73.000000)">
+            <g id="screen" stroke-width="1" transform="translate(0.000000, 232.000000)">
+                <rect id="Rectangle-2" fill="#FF8D35" x="0" y="0" width="632" height="465" rx="8"></rect>
+                <rect id="Rectangle-3" fill="#FFFFFF" x="42" y="53" width="551" height="341" rx="8"></rect>
+            </g>
+            <g id="Foot" stroke-width="1" transform="translate(182.000000, 660.000000)" fill="#FF8D35">
+                <path d="M137.4253,53.692587 L137,53.4806785 L137,53.8993755 L0,120.511181 L0,131.730526 L137.430565,131.730526 L271.196758,131.730526 L271.196758,120.345061 L137.861131,53.9097424 L137.861131,53.4806785 L137.4253,53.692587 Z" id="Combined-Shape"></path>
+                <path d="M71.3856589,0 L204.323015,0 C204.323015,0 157.961434,92.961357 204.323015,92.961357 C253.961234,92.961357 8.47780305,92.961357 71.3856589,92.961357 C116.291165,92.961357 71.3856589,0 71.3856589,0 Z" id="Combined-Shape"></path>
+            </g>
+            <g id="brush" transform="translate(454.484135, 285.358473) rotate(4.000000) translate(-454.484135, -285.358473) translate(253.484135, 13.358473)" fill="#FF8D35">
+                <use id="Rectangle-5" stroke="#FFFFFF" mask="url(#mask-2)" stroke-width="34" transform="translate(266.726812, 177.558283) rotate(-60.000000) translate(-266.726812, -177.558283) " xlink:href="#path-1"></use>
+                <path d="M47.3310755,519.992783 C28.9884957,559.112286 100.270664,495.175787 106.087863,467.720035 C111.905063,440.264284 86.5897636,412.234394 62.5376388,412.234394 C38.4855139,412.234394 23.3243125,437.840092 29.3719521,460.484433 C35.4195917,483.128774 65.6736553,480.87328 47.3310755,519.992783 Z" id="Oval-10" transform="translate(67.486061, 472.285503) rotate(36.000000) translate(-67.486061, -472.285503) "></path>
+                <path d="M113.951178,302.824637 C124.87756,295.053604 149.690447,295.213124 163.803173,299.039732 C177.9159,302.866339 155.298462,430.334579 153.510817,429.608775 C139.926323,424.093315 130.729883,430.969416 130.729883,430.969416 C130.729883,430.969416 103.024795,310.59567 113.951178,302.824637 Z" id="Rectangle-6" transform="translate(139.907126, 363.722056) rotate(37.000000) translate(-139.907126, -363.722056) "></path>
+            </g>
+        </g>
+    </g>
+</svg>

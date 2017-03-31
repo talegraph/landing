@@ -1,6 +1,8 @@
 .banner {
   background-color: $color-primary-0;
   padding: 100px 0;
+  position: relative;
+  overflow: hidden;
 }
 
 .banner--sm {
@@ -20,4 +22,10 @@
   font-size: 18px;
   color: rgba(#000, 0.5);
   margin-bottom: 30px;
+}
+
+.banner__image {
+  position: absolute;
+  width: 600px;
+  left: 5%;
 }
